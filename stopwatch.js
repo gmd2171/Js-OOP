@@ -1,3 +1,5 @@
+//Stop Watch using closures, getter setters, constuctors and private properties
+
 class stopWatch {
     constructor() {
         let startTime;
